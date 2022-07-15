@@ -1,4 +1,4 @@
-![alt text](https://github.com/afraniogazolla/livroSistemaSilvipastoril/blob/main/Capa.jpg)
+![alt text](https://github.com/afraniogazolla/livroEspeciesArboreasAgrossilvipastoris/blob/main/Capa.jpg)
 
 # [Livro] Fitossociologia de espécies arbóreas em sistemas agrossilvipastoris no município de Matinha, região da baixada maranhense.
 
